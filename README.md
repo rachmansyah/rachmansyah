@@ -6,7 +6,7 @@ Software developer behind **THESIX** (`thesix.my.id`), Lecturer Computer Systems
 - **Software Development:** Building practical web applications, academic & OBE tools, and offline-first UMKM apps under **THESIX** ([thesix.my.id](https://thesix.my.id) • [apps.thesix.my.id](https://apps.thesix.my.id))
 - **Core Stack:** Python, FastAPI, Laravel, Livewire, Ubuntu Server, Docker Compose, and self-hosted infrastructure
 
-#### 🎓 Academic & Accreditation
+#### 🎓 Academic 
 - **Teaching:** Embedded Systems, Internet of Things (IoT), Computer Architecture, Robotics, Data Engineering, and Basic Programming
 
 #### 🔬 Research & Hardware Prototyping
